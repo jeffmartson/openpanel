@@ -55,7 +55,7 @@
     "@trpc/react-query": "^10.45.1",
     "@trpc/server": "^10.45.1",
     "@types/d3": "^7.4.3",
-    "bcrypt": "^5.1.1",
+    "bcrypt": "^6.0.0",
     "bind-event-listener": "^3.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
